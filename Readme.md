@@ -9,7 +9,7 @@ The researchers found that the drawing speed was slower and the pen pressure is 
 
 **Project objective**
 
-“*” To understand the problem for to classify if it is a regression or a classification kind of problem.<br />
+* To understand the problem for to classify if it is a regression or a classification kind of problem.<br />
 “*” To pre-process the image by using different data pre-processing techniques.<br />
 “*” To implement the algorithm by using OpenCV framework and machine learning to automatically detect Parkinson’s disease in hand-drawn images of spirals and waves.<br />
 “*” To know how to find the accuracy of the model.<br />
