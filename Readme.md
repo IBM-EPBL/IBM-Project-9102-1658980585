@@ -19,9 +19,13 @@ Detecting Parkinson’s Disease using Machine Learning
 
 * Team ID : PNT2022TMID01543<br />
 * Team Leader : Manikandan C<br />
-* Team member-1 : Lakshmanan N<br />
-* Team member-2 : Logeshwaran M<br />
-* Team member-3 : Mathivanan S<br />
+* Team Member 1 : Lakshmanan N<br />
+* Team Member 2 : Logeshwaran M<br />
+* Team Member 3 : Mathivanan S<br />
+
+**College Name :** Bannari Amman Institute of Technology
+
+
 
 
 
